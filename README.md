@@ -1,7 +1,10 @@
 # Instructions for using files:
-1) Download the "Shark Tank Investments.xlsx" in the "Source Data" folder
-2) Download the "Food & Beverage.ipynb" in the "Analysis" folder
+1) Download the zip package
+    - Analysis Folder: Notebooks with code + analysis
+    - Source Data Folder: Dataset of Shark Tank investments
+2) Open the "Food & Beverage.ipynb" in the "Analysis" folder
     - This notebook has been customized for the Food & Beverage industry
+    - File paths are relative and should run as long as folder structure is unchanged
     - You can change industries analyzed in line 21 under "Industry Specific Analysis" 
 
 # Data Sources & Info
